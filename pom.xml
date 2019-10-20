@@ -35,6 +35,20 @@
                 </exclusion>
             </exclusions>
         </dependency>
+
+        <!--添加rabbitMQ客户端依赖-->
+        <dependency>
+            <groupId>com.rabbitmq</groupId>
+            <artifactId>amqp-client</artifactId>
+            <version>5.7.3</version>
+        </dependency>
+
+        <!--添加junit依赖-->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
