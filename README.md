@@ -52,7 +52,7 @@ RabbitMQ是由erlang语言开发，基于AMQP（Advanced Message Queue 高级消
 
 ### RabbitMQ工作原理
 
-![RabbitMQ工作原理](src\main\resources\static\image\RabbitMQ工作原理.png)
+![RabbitMQ工作原理](src/main/resources/static/image/RabbitMQ工作原理.png)
 
 组成部分说明：
 
@@ -90,7 +90,7 @@ RabbitMQ是由erlang语言开发，基于AMQP（Advanced Message Queue 高级消
 
 #### 1.基本消息模型
 
-![基本消息模型](src\main\resources\static\image\基本消息模型.png)
+![基本消息模型](src/main/resources/static/image/基本消息模型.png)
 
 在上图的模型中，有以下概念：
 
