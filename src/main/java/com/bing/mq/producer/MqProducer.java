@@ -24,7 +24,7 @@ public class MqProducer {
      * @throws TimeoutException
      */
     @Test
-    public void sentMessage() throws IOException, TimeoutException {
+    public void sendMessage() throws IOException, TimeoutException {
 
         Connection connection = null;
         Channel channel = null;
